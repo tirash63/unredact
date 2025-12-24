@@ -4,6 +4,8 @@ This repository contains a Python utility for extracting selectable (but visuall
 
 The tool is intended for document analysis, archival review, research, and verification of redaction practices It does not bypass encryption or security controls; it only extracts text that remains present in the PDF content stream.
 
+Note - not all files can be unredacted. This tool only works for pooly redacted files. If you get blank spaces, the file has been properly redacted. 
+
 ---
 
 ## What This Tool Does
